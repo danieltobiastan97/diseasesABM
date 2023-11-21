@@ -1,10 +1,7 @@
 # Infectious Disease Spread Modelling with ABM
 
 ## Overview
-This project utilizes an Agent-Based Model (ABM) to simulate the spread of infectious diseases in a given area over time. The aim is to create a computational model that demonstrates the pattern of disease transmission, considering factors like recovery rates, infection rates, and population movement.
-
-## Importance
-With the rise of infectious diseases such as COVID-19, Zika virus, and Ebola, understanding disease spread is crucial for public health and security. ABMs offer a more realistic and comprehensive view of disease dynamics and the impact of policies, compared to traditional equation-based models.
+This project utilizes an Agent-Based Model (ABM) to simulate the spread of infectious diseases in a given area over time. The aim is to create a computational model that demonstrates the pattern of disease transmission, considering factors like recovery rates, infection rates, and population movement. 2D-ABMs offer a more simple view of disease dynamics and the impact of policies, and is able to show emergent properties over a period of time.
 
 ## Methodology
 - **Model Description:** Uses ABMs to represent individual interactions and their environment, capturing the dynamics of disease transmission.
